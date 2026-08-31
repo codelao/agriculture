@@ -1,2 +1,1 @@
-# agriculture
-Forecasts agricultural production standing based on historical rainfall levels
+Dataset made and used for model training is published [here](https://www.kaggle.com/datasets/cccodelao/indian-agriculture-and-rainfall-data-1998-2017).
